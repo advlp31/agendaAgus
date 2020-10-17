@@ -1,4 +1,4 @@
-package agendaAgus;
+package src;
 
 public class Application {
 
